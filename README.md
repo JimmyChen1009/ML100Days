@@ -10,3 +10,4 @@ The midterm data challenge focus on Enron fraud dataset. The goal is to identify
 The final exam is about image recogition using deep learning. The dataset contains five flower species, incuding daisy, dandellion, rose, sunflower and tulip. In this case, I leverage pretrained ResNet-50 and simply modify the output NN layer, and further train the model to accomdate to the dataset. It obtains around 95% of accuracy after several epochs. The challenge can be found on https://www.kaggle.com/competitions/2021-ml-100-marathon-final-exam/overview/description. 
 
 ## Certificate
+![Cer of completion]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/JimmyChen1009/ML100Days/blob/main/homework/%E5%AE%8C%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)https://github.com/JimmyChen1009/ML100Days/blob/main/homework/%E5%AE%8C%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)
